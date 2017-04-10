@@ -7,7 +7,7 @@
     "build": "coffee -o lib src"
   },
   "peerDependencies": {
-    "derby": "^0.6.0-alpha61"
+    "derby": "^0.x"
   },
   "author": "Alexey Balekhov <a@balek.ru>",
   "license": "AGPL-3.0",
