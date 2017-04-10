@@ -1,6 +1,6 @@
 {
   "name": "derby-client-error",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "DerbyJS module for logging client errors on a server",
   "main": "lib",
   "scripts": {
